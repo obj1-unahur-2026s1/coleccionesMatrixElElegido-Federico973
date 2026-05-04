@@ -1,0 +1,9 @@
+
+
+describe "group of tests " {
+
+  test "test 01" {
+    assert.equals(100, 50+50)
+  }
+
+}
